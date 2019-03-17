@@ -96,11 +96,3 @@ The tools needed to create this project mostly already exist in the industry now
 The skills that we will need will be some software engineering to make an app/program that can link between our device and a phone or computer allowing for control. We will also need some hardware engineers that are accustomed to working with current gen AR/VR equipment to help piece everything together. Overall it shouldn’t hard to find people with these skills out in the workforce as the individual parts we need are already in the market place.  
 
 This project will be successful when not only would devices made be a ubiquitous as the smart phone is today but also cause a mentality shift in the industry that shows the tech companies that the concept of the internet of things can be extended to a single device. 
-
- 
-
- 
-
- 
-
- 
