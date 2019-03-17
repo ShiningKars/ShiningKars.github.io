@@ -1,12 +1,12 @@
-Hi my name is Mitchell Dickson  
+# Hi welcome to my page
 
-SN# S3795441                                  S3795441@student.rmit.edu.au 
-
- 
-
-I was born in Australia where my family has been for a few generations and the highest level of education I have done is high school 
+### Mitchell Disckson
+### SN# S3795441                                  
+### S3795441@student.rmit.edu.au 
 
  
+
+I was born in Australia where my family has been for a few generations and the highest level of education I have done is high school.
 
 I’ve had an interest in IT since my early life where I was a very curious about the way things worked and the earliest event I can remember is my dad letting me take apart our computer to see how things went together. 
 
@@ -20,11 +20,11 @@ Through my studies I expect to learn the skills I will need to start a career in
 
  
 
-Ideal job  
+Ideal job
+=========
+![](https://puu.sh/D0987/be89d7450a.png)
 
- 
-
-https://www.seek.com.au/job/38578690?type=standout&searchrequesttoken=dbbc63ef-102e-4a3d-9978-dfc199ee4cbd 
+[Link to job here](https://www.seek.com.au/job/38578690?type=standout&searchrequesttoken=dbbc63ef-102e-4a3d-9978-dfc199ee4cbd)
 
  
 
@@ -39,8 +39,10 @@ I plan to finish my degree though RMIT and this should also assist in learning C
  
 
 Psychometric tests 
-
+==================
 Myers-Briggs 
+------------
+![](https://puu.sh/CSj8a/1e622d485a.png)
 
 To me this test affirms my identity as a very logical thinker and while it shows that I am flexible on the approach to a solution I have little regard for wrong or inefficient solutions. 
 
@@ -53,6 +55,8 @@ Also knowing my type of thinking it would a good idea to have people with other 
  
 
 Learning style test 
+-------------------
+![](https://puu.sh/CSjxz/7690e284e2.png)
 
 To me this test exemplifies my poor ability to learn through auditory means which overall is not that surprising to me. It also shows that while I am by majority a tactile learner it is not a dominating method meaning I can be flexible through the situations I find myself in the future. 
 
@@ -63,6 +67,8 @@ From that idea we can see that having a mix of leaning styles in a group can inc
  
 
 Abstract reasoning 
+-----------------
+![](https://puu.sh/CSk8u/e11730e712.png)
 
 An abstract reasoning test maybe used by an employer when assessing someone for a job that requires a high level of creative thinking such as my dream job (software engineer). This test shows that I have abstract reasoning which is a good sign for getting my dream job. 
 
@@ -73,22 +79,23 @@ So when forming a group having more of a mix maybe a better idea.
  
 
 IT project  
-
- 
+==========
 
 The project idea I have is to break the standard industry thinking on wearable technology by creating multiple smaller devices to wear that are worn together instead of one like what is currently produced. For example, having a glove used for user input through gesturers, using a pair of glasses as a display only and having a central processor that the user carries i.e. a phone. This is contrast to the HoloLens that Microsoft is producing which they try to put all those parts into one device that the user wears on their head. 
 
- 
-
 My motivation for this is to address the issue that can arise by having everything on only one device. These issues can range from the devices being too heavy to wear, especially for extended periods to better customizability on the features gained and easier upgradability/replicability. 
-
- 
 
 The project will have a pair of glasses that act as the display for the device. Having glasses that only act as a display we can reduce the weight and complexity of the device making it more comfortable to wear and utilize the savings by increasing the battery and decrees cost over current products in market. 
 
 The project will also have a glove for user input through gestures. Moving the user inputs to a dedicated device that works through touch will assist in higher accuracy of the gestures and as the technology is much more mature it should be easier to manufacture and more intuitive for that average user that us used to interacting though touch on phones and laptops. 
 
 The last critical component of this project is a central processer. This could be a simple as utilizing the users’ smart phone, which becomes a more viable option with every new generation of phone. We could also create a more purpose-built device if it is determined that smart phones aren’t powerful enough yet. As a more future proof idea we could enable the glove and glasses pair to connect to any computer and allow for a user to control multiple devices at once turning the project into the next generation of interface. 
+
+Tools needed 
+
+Skills required 
+
+This project will be successful when not only would devices made be a ubiquitous as the smart phone is today but also cause a mentality shift in the industry that shows the tech companies that the concept of the internet of things can be extended to a single device. 
 
  
 
