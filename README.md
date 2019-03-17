@@ -1,8 +1,8 @@
 # Hi welcome to my page
 
-### Mitchell Disckson
-### SN# S3795441                                  
-### S3795441@student.rmit.edu.au 
+#### Mitchell Disckson
+#### SN# S3795441                                  
+#### S3795441@student.rmit.edu.au 
 
  
 
@@ -41,7 +41,7 @@ I plan to finish my degree though RMIT and this should also assist in learning C
 Psychometric tests 
 ==================
 Myers-Briggs 
--------
+--------------
 ![](https://puu.sh/CSj8a/1e622d485a.png)
 
 To me this test affirms my identity as a very logical thinker and while it shows that I am flexible on the approach to a solution I have little regard for wrong or inefficient solutions. 
