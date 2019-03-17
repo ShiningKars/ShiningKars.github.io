@@ -1,8 +1,10 @@
 # Hi welcome to my page
 
-#### Mitchell Disckson
-#### SN# S3795441                                  
-#### S3795441@student.rmit.edu.au 
+Mitchell Disckson	
+
+SN# S3795441							
+
+S3795441@student.rmit.edu.au 
 
  
 
@@ -25,8 +27,6 @@ Ideal job
 ![](https://puu.sh/D0987/be89d7450a.png)
 
 [Link to job here](https://www.seek.com.au/job/38578690?type=standout&searchrequesttoken=dbbc63ef-102e-4a3d-9978-dfc199ee4cbd)
-
- 
 
 My ideal job would probably be a Sofware engineer as I find the problem solving and debugging aspect of programing to be quite fun. 
 
@@ -52,8 +52,6 @@ When considering this result, it might be a good idea to try to recognize any in
 
 Also knowing my type of thinking it would a good idea to have people with other thought process to challenge my ideas to make sure they hold up to scrutiny. 
 
- 
-
 Learning style test 
 -------------------
 ![](https://puu.sh/CSjxz/7690e284e2.png)
@@ -64,8 +62,6 @@ These results could affect teamwork if most of the group has the same learning s
 
 From that idea we can see that having a mix of leaning styles in a group can increase the paths looked at to a solution. 
 
- 
-
 Abstract reasoning 
 -----------------
 ![](https://puu.sh/CSk8u/e11730e712.png)
@@ -75,8 +71,6 @@ An abstract reasoning test maybe used by an employer when assessing someone for 
 Overall having abstract thinking in a group is a good idea but if everyone was an abstract thinker the group might gloss over some of the more mundane solutions which could do more harm than good. 
 
 So when forming a group having more of a mix maybe a better idea. 
-
- 
 
 IT project  
 ==========
