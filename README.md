@@ -4,7 +4,7 @@ Mitchell Dickson
 
 SN# S3795441							
 
-[S3795441@student.rmit.edu.au](S3795441@student.rmit.edu.au)
+S3795441@student.rmit.edu.au
 
  
 
