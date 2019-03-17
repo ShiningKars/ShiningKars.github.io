@@ -1,6 +1,6 @@
 # Hi welcome to my page
 
-Mitchell Disckson	
+Mitchell Dickson	
 
 SN# S3795441							
 
@@ -40,8 +40,8 @@ I plan to finish my degree though RMIT and this should also assist in learning C
 
 Psychometric tests 
 ==================
-Myers-Briggs 
---------------
+## Myers-Briggs 
+
 ![](https://puu.sh/CSj8a/1e622d485a.png)
 
 To me this test affirms my identity as a very logical thinker and while it shows that I am flexible on the approach to a solution I have little regard for wrong or inefficient solutions. 
@@ -52,8 +52,8 @@ When considering this result, it might be a good idea to try to recognize any in
 
 Also knowing my type of thinking it would a good idea to have people with other thought process to challenge my ideas to make sure they hold up to scrutiny. 
 
-Learning style test 
--------------------
+## Learning style test 
+
 ![](https://puu.sh/CSjxz/7690e284e2.png)
 
 To me this test exemplifies my poor ability to learn through auditory means which overall is not that surprising to me. It also shows that while I am by majority a tactile learner it is not a dominating method meaning I can be flexible through the situations I find myself in the future. 
@@ -62,8 +62,8 @@ These results could affect teamwork if most of the group has the same learning s
 
 From that idea we can see that having a mix of leaning styles in a group can increase the paths looked at to a solution. 
 
-Abstract reasoning 
------------------
+## Abstract reasoning 
+
 ![](https://puu.sh/CSk8u/e11730e712.png)
 
 An abstract reasoning test maybe used by an employer when assessing someone for a job that requires a high level of creative thinking such as my dream job (software engineer). This test shows that I have abstract reasoning which is a good sign for getting my dream job. 
