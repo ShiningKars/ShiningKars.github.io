@@ -85,9 +85,9 @@ The project will also have a glove for user input through gestures. Moving the u
 
 The last critical component of this project is a central processer. This could be a simple as utilizing the users’ smart phone, which becomes a more viable option with every new generation of phone. We could also create a more purpose-built device if it is determined that smart phones aren’t powerful enough yet. As a more future proof idea we could enable the glove and glasses pair to connect to any computer and allow for a user to control multiple devices at once turning the project into the next generation of interface. 
 
-Tools needed 
+The tools needed to create this project mostly already exist in the industry now as this project is more of a re-thinking of already existing technology rather than a brand-new concept. We could use the screen from an AR/VR headset as the base for the glasses and modify it to remove anything not needed to get the screens going. The gloves can be made from ![flexible touchpad technology](https://www.livescience.com/58280-transparent-touchpad-can-bend-and-stretch.html) allowing for a thin design. For the central processor the simplest solution would be to use the users’ phone which would require the development of a screen sharing app. 
 
-Skills required 
+The skills that we will need will be some software engineering to make an app/program that can link between our device and a phone or computer allowing for control. We will also need some hardware engineers that are accustomed to working with current gen AR/VR equipment to help piece everything together. Overall it shouldn’t hard to find people with these skills out in the workforce as the individual parts we need are already in the market place.  
 
 This project will be successful when not only would devices made be a ubiquitous as the smart phone is today but also cause a mentality shift in the industry that shows the tech companies that the concept of the internet of things can be extended to a single device. 
 
