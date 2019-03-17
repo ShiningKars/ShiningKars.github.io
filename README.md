@@ -4,7 +4,7 @@ Mitchell Dickson
 
 SN# S3795441							
 
-S3795441@student.rmit.edu.au 
+[S3795441@student.rmit.edu.au](S3795441@student.rmit.edu.au)
 
  
 
@@ -44,6 +44,8 @@ Psychometric tests
 
 ![](https://puu.sh/CSj8a/1e622d485a.png)
 
+[Link to website used](https://www.16personalities.com/)
+
 To me this test affirms my identity as a very logical thinker and while it shows that I am flexible on the approach to a solution I have little regard for wrong or inefficient solutions. 
 
 These results show that I have tendency to point out issues without regard for how doing so might affect other’s feelings. I have noticed me doing this in my work place already but as we all get along it comes off as constructive criticism. However, I do recognize how this could be an issue to some people. 
@@ -56,6 +58,8 @@ Also knowing my type of thinking it would a good idea to have people with other 
 
 ![](https://puu.sh/CSjxz/7690e284e2.png)
 
+[Link to website used](http://www.educationplanner.org/students/self-assessments/learning-styles.shtml)
+
 To me this test exemplifies my poor ability to learn through auditory means which overall is not that surprising to me. It also shows that while I am by majority a tactile learner it is not a dominating method meaning I can be flexible through the situations I find myself in the future. 
 
 These results could affect teamwork if most of the group has the same learning style it could stifle different outlooks on the problem leading to possibly inefficient solutions. 
@@ -65,6 +69,8 @@ From that idea we can see that having a mix of leaning styles in a group can inc
 ## Abstract reasoning 
 
 ![](https://puu.sh/CSk8u/e11730e712.png)
+
+[Link to website used](https://www.123test.com/)
 
 An abstract reasoning test maybe used by an employer when assessing someone for a job that requires a high level of creative thinking such as my dream job (software engineer). This test shows that I have abstract reasoning which is a good sign for getting my dream job. 
 
@@ -85,7 +91,7 @@ The project will also have a glove for user input through gestures. Moving the u
 
 The last critical component of this project is a central processer. This could be a simple as utilizing the users’ smart phone, which becomes a more viable option with every new generation of phone. We could also create a more purpose-built device if it is determined that smart phones aren’t powerful enough yet. As a more future proof idea we could enable the glove and glasses pair to connect to any computer and allow for a user to control multiple devices at once turning the project into the next generation of interface. 
 
-The tools needed to create this project mostly already exist in the industry now as this project is more of a re-thinking of already existing technology rather than a brand-new concept. We could use the screen from an AR/VR headset as the base for the glasses and modify it to remove anything not needed to get the screens going. The gloves can be made from ![flexible touchpad technology](https://www.livescience.com/58280-transparent-touchpad-can-bend-and-stretch.html) allowing for a thin design. For the central processor the simplest solution would be to use the users’ phone which would require the development of a screen sharing app. 
+The tools needed to create this project mostly already exist in the industry now as this project is more of a re-thinking of already existing technology rather than a brand-new concept. We could use the screen from an AR/VR headset as the base for the glasses and modify it to remove anything not needed to get the screens going. The gloves can be made from [flexible touchpad technology](https://www.livescience.com/58280-transparent-touchpad-can-bend-and-stretch.html) allowing for a thin design. For the central processor the simplest solution would be to use the users’ phone which would require the development of a screen sharing app. 
 
 The skills that we will need will be some software engineering to make an app/program that can link between our device and a phone or computer allowing for control. We will also need some hardware engineers that are accustomed to working with current gen AR/VR equipment to help piece everything together. Overall it shouldn’t hard to find people with these skills out in the workforce as the individual parts we need are already in the market place.  
 
